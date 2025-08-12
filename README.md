@@ -3,7 +3,7 @@
 AI-powered travel planner with a FastAPI backend and a Vite frontend. For more details, see the README in each subdirectory.
 
 -----
-[🎬 Watch the demo video](assets/trippy-demo.mp4)
+ <img src="assets/trippy-demo.gif" alt="Trippy Demo" width="700">
 -----
 
 ## Tech Stack
